@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickKondis
 - 👀 I’m interested in data science, particularly, machine learning
-- 🌱 I’m currently learning Tools Of The Data SCientist from UBC Extended Learning
+- 🌱 I’m currently learning Tools Of The Data Scientist from UBC Extended Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nickkondis@yahoo.com
 
