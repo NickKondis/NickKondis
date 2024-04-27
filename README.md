@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NickKondis
 - 👀 I’m interested in data science, particularly, machine learning
-- 🌱 I’m currently learning Tools Of The Data Scientist from UBC Extended Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Brainstation Bootcamp for Data Science
+- I am currently enrolled in MIT Micromasters in Statistics and Data Science
+- 💞️ I am currently looking for an entry level position as a Data Scientist
 - 📫 How to reach me nickkondis@yahoo.com
 
 <!---
